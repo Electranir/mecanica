@@ -5,3 +5,25 @@
     one more css for each page that will contain the selected used 
     on that page only (the ones not reused in other pages).
 */
+
+.bgimage {
+    width: 100%;
+    height: 700px;
+    background: url("https://res.cloudinary.com/dfrxcfjha/image/upload/v1670382715/samples/Web/1294-scaled_uttitj.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+.bghome {
+    background-color: rgba(250, 235, 215, 0.568);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.aboutFont {
+    font-family: 'Permanent Marker', cursive;
+}
+
+  
